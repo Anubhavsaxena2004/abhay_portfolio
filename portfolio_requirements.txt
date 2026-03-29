@@ -1,0 +1,44 @@
+Portfolio Requirements for Abhay Dubey
+
+Please provide the following details to customize the portfolio:
+
+1. Personal Information:
+   - Full name: Abhay Dubey
+   - Profession/Title: [e.g., Web Developer, Designer]
+   - Short bio (2-3 sentences): [Describe background, passion, goals]
+   - Location: [City, Country]
+   - Contact email: [email address]
+   - Key skills/expertise: [List main skills, e.g., HTML, CSS, JavaScript, React]
+
+2. Professional Experience:
+   - Current/Previous jobs: [Role, Company, Duration, Achievements]
+   - Notable responsibilities or achievements: [Bullet points]
+
+3. Education:
+   - Degrees: [Degree, Institution, Year]
+   - Certifications: [Any relevant certifications]
+
+4. Projects:
+   - Project 1: Name, Description, Technologies, Link/GitHub
+   - Project 2: Name, Description, Technologies, Link/GitHub
+   - [Up to 3-5 projects]
+
+5. Images:
+   - Profile picture: [File name or link to image, e.g., abhay_profile.jpg]
+   - Project images: [For each project, file name or link, e.g., project1_screenshot.png]
+
+6. Links:
+   - LinkedIn: [URL]
+   - GitHub: [URL or username]
+   - Twitter/X: [Handle]
+   - Personal website/blog: [URL]
+   - Other links: [Resume, portfolio, etc.]
+
+7. Design Preferences:
+   - Color scheme: [e.g., blue and white, dark theme]
+   - Any specific styling notes: [e.g., minimalist, modern]
+
+8. Additional Notes:
+   - Any other details or requirements for the portfolio.
+
+Once you provide these details, I can update the HTML, CSS, and add images accordingly.
